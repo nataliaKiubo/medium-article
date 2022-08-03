@@ -29,6 +29,7 @@ ul {
 
   .fullwidth {
     background-size: cover;
+    background-position: center;
     height: 350px;
 }
 
