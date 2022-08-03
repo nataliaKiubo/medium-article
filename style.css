@@ -4,7 +4,8 @@ body {
 
 .fullwidth {
   background-image: url("images/Testimage.jpg");
-  background-size: contain;
+  background-size: cover;
+  background-position: center;
   height: 500px;
 }
 
@@ -28,8 +29,6 @@ ul {
   }
 
   .fullwidth {
-    background-size: cover;
-    background-position: center;
     height: 350px;
 }
 
